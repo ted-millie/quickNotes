@@ -15,7 +15,6 @@ body {
   user-select: none;
   will-change: transform;
   transition: transform .1s cubic-bezier(0,0,.2,1);
-  background-color: pink;
 }
 
 .experiment-header {
